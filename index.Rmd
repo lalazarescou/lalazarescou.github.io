@@ -1,0 +1,60 @@
+---
+title: "Simple Website Example"
+author: "Laura Lazarescou"
+date: "11/12/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+### A little info about me:
+I'm an experienced technology professional and budding data scientist in the MS in Data Science Program at SMU.
+Learning R, SAS and all kinds of crazy statistical concepts is humbling, but it will put me 
+at the intersection of the Data Science Venn Diagram.
+
+I was born in Dallas, TX where I now live (very rare in Dallas).
+I attended the University of Texas at Austin and graduated with a BS in Petroleum Engineering.
+As fate would have it, oil was $9 / barrel when I graduated so I was lucky to get a job but we were 
+very very bored - waiting for oil to hit $20/barrel so we could "make economics".
+
+After a few twists and turns I jumped on the early wave of the data revolution and joined Oracle Consulting, 
+designing and implementing new applications on relational database.
+
+Today I work for Microsoft, helping customers achieve their business objectives with Microsoft technologies.
+Ironically I'm not an Azure expert (yet). In fact, I've been in consultative technical sales for the greater
+part of my career, so this is an adventure back to the land of techies.  
+
+My new skills are still pretty rough, but I find that even though we have developed a lot of 
+new technologies, the principles are still very similar to my earlier tech days.
+In the future, I look forward to applying my industry knowledge, updated coding skills and 
+architectural experience to helping non-profits and public sector organizations transform.
+
+Take a look at my first projects that will make me smile in a few years:
+
+
+
+
+
+
