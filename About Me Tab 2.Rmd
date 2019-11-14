@@ -1,0 +1,34 @@
+---
+title: "My Unicorn Journey"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+I'm an experienced technology professional and budding data scientist in the MS in Data Science Program at SMU.
+
+I was born in Dallas, TX, graduated from high school in Austin, TX, moved to Paris, France for eight years then back to Dallas to be closer to my family.  My Romanian-born Texan husband and I were
+blessed with three daughters who have all grown into fierce independent professional women.
+
+I attended the University of Texas at Austin (Hook'em!) and graduated with a BS in Petroleum Engineering at a time when oil was $9/barrel.  I was able to get a job because Chevron knew they 
+would need someone to run the business when the baby boomers retired. (way back then they knew!)
+
+Unfortunately, waiting for the price of oil to hit $20/barrel was very boring, so I pivoted to 
+Oracle when RDBMS was as hot as Python. or bots and AI. and ML.
+
+For 10 years I designed databases, built apps that ran on Oracle and even did a stint as a DBA
+for a few years.
+
+I was recruited into Telecom Sales and realized I loved my customers and their problems more than 
+I loved building things.  Then my husband and I caught a wild hare and became entrepreneurs, buying
+two privately held preschools with the intention of converting them to Montessori schools.
+
+That was SO HARD so I went back to Corporate America, and today I work for Microsoft, helping customers achieve their business objectives with Microsoft technologies.
+
+In the future, I hope to become a first class Unicorn:  someone with deep industry and business
+knowledge, a solid understanding of computer science, and a strong appreciation for statistical significance.
+
+Follow this link to see my first rshiny app:
+
