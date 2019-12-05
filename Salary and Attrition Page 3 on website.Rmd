@@ -1,0 +1,24 @@
+---
+title: "Attrition Analysis"
+author: "Laura Lazarescou"
+date: "12/5/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#  SMU Master of Science in Data Science
+
+##  Doing Data Science Project #2
+
+### This project analyzed over 800 observations and 36 factors to develop optimal models for
+###  - Salary
+###  - Attrition
+
+###  Here's my presentation to the CEO and CHRO of Frito-Lay
+###  https://youtu.be/gLXvK6-R4Ko
+
+
+
